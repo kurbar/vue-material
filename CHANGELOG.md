@@ -1,3 +1,9 @@
+<a name="v1.0.0-beta-8"></a>
+# [v1.0.0-beta-8](https://github.com/vuematerial/vue-material/compare/1.0.0-beta-8.1...1.0.0-beta-8) (2018-05-03)
+
+
+
+
 <a name="v1.0.0-beta-7"></a>
 # [v1.0.0-beta-7](https://github.com/vuematerial/vue-material/compare/v1.0.7-beta-7...v1.0.0-beta-7) (2018-01-29)
 
